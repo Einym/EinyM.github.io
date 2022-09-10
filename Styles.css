@@ -30,6 +30,10 @@ li a {
     text-decoration: none;
 }
 
+li:hover {
+    background-color: rgb(75, 46, 92);
+}
+
 .content {
     margin-top: 100px;
 }
