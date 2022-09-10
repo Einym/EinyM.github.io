@@ -12,6 +12,7 @@ ul{
     overflow: hidden;
     position: fixed;
     top: 0;
+    left: 0;
     width: 100%;
     box-shadow: 1px 1px 5px black;
     background-color: #333;
