@@ -51,18 +51,28 @@ li:hover {
     background-color: rgb(88, 88, 88);
     width: 420px;
     height: 300px;
+    padding: 10px;
+    margin: 1px 1px 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 15px;
+}
+
+#Sonic1 {
+    background-color: rgb(88, 88, 88);
+    width: 420px;
+    height: 300px;
     margin: 50px;
     margin-left: auto;
     margin-right: auto;
     box-shadow: 1px 1px 5px black;
     border-radius: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .centrar {
     color: rgb(185, 223, 250);
+    margin: 10px;
     text-align: center;
 }
 
@@ -87,6 +97,14 @@ li:hover {
 
 .Imagen {
     border-radius: 100px;
+    display: block;
+    margin: auto;
+}
+
+.Imagen1 {
+    border-radius: 10px;
+    display: block;
+    margin: auto;
 }
 
 #Colaboradores {
