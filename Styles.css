@@ -6,10 +6,8 @@ body {
 }
 
 #Titulo {
-    display: flex;
-    justify-content: center;
-    background-color: rgb(153, 201, 255);
-    border: 5px rgb(26, 26, 26) solid;
+    display: block;
+    text-align: center;
 }
 
 #Sonic {
