@@ -1,6 +1,8 @@
 body {
+    background-image: url(https://cdn.discordapp.com/attachments/950144638273077268/1018315389798723584/d839742a057e1d111d0373fa614de906.jpg);
+    background-size: center;
     background-color: rgb(66, 66, 66);
-    color: white;
+    color: rgb(92, 92, 92);
     margin: auto;
     padding: auto;
     width: 100%;
@@ -63,6 +65,7 @@ li:hover {
     background-color: rgb(88, 88, 88);
     width: 420px;
     height: 300px;
+    padding: 0;
     margin: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -71,7 +74,7 @@ li:hover {
 }
 
 .centrar {
-    color: rgb(185, 223, 250);
+    color: rgb(255, 255, 255);
     margin: 10px;
     text-align: center;
 }
@@ -110,5 +113,5 @@ li:hover {
 #Colaboradores {
     text-align: center;
     font-size: 30px;
-    color: rgb(185, 223, 255);
+    color: rgb(255, 255, 255);
 }
