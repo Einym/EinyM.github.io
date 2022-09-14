@@ -2,7 +2,7 @@
     display: block;
     text-align: center;
     margin-top: 130px;
-    padding: 50px;
+    padding: 0px;
 }
 
 #Textro {
@@ -10,6 +10,18 @@
     text-align: center;
     margin-top: auto;
     padding: 50px;
+}
+
+#Sonic3 {
+    background-color: rgb(88, 88, 88);
+    width: 630px;
+    height: 1400px;
+    padding: 10px;
+    margin: 1px 1px 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 15px;
 }
 
 #Cuadro {
