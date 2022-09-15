@@ -1,0 +1,32 @@
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+.Cuadro {
+    width: 498px;
+    height: 474px;
+    margin: 10px;
+    float: top;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(88, 88, 88);
+    border-style:solid;
+    border-width: 1px;
+    
+}
+
+.Cuadro2 {
+    width: 498px;
+    height: 474px;
+    margin: 10px;
+    float: top;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(88, 88, 88);
+    border-style:solid;
+    border-width: 1px;
+}
+
