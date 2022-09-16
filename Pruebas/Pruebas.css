@@ -1,3 +1,12 @@
+@media screen and (max-width:100px) {
+    .Cuadro{
+        width: 67%;
+    }
+    .Cuadro2{
+        width: 67%;
+    }
+}
+
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
@@ -5,13 +14,21 @@ a:-webkit-any-link {
     color: white;
 }
 
+.contenedor {
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    padding: 0;
+    border: 1px;
+    width: 500px;
+    height: 500px;
+}
+
 .Cuadro {
     width: 498px;
     height: 474px;
     margin: 10px;
-    float: top;
-    display: flex;
-    justify-content: center;
+    float: right;
     background-color: rgb(88, 88, 88);
     border-style:solid;
     border-width: 1px;
@@ -22,11 +39,30 @@ a:-webkit-any-link {
     width: 498px;
     height: 474px;
     margin: 10px;
-    float: top;
+    float: right;
+    background-color: rgb(88, 88, 88);
+    border-style:solid;
+    border-width: 1px;
+}
+
+.Cuadro3 {
+    width: 498px;
+    height: 474px;
+    margin: 10px;
+    float: right;
+    background-color: rgb(88, 88, 88);
+    border-style:solid;
+    border-width: 1px;
+}
+
+.Cuadro4 {
+    width: 498px;
+    height: 474px;
+    margin: 10px;
+    float: right;
     display: flex;
     justify-content: center;
     background-color: rgb(88, 88, 88);
     border-style:solid;
     border-width: 1px;
 }
-

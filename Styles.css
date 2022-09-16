@@ -131,3 +131,9 @@ li:hover {
     font-size: 30px;
     color: rgb(255, 255, 255);
 }
+
+@media screen and (max-width:100px) {
+     body{
+        width: 120%;
+    }
+}
